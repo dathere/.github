@@ -1,6 +1,6 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://dathere.com/wp-content/uploads/2021/07/dathere_logo_wb.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://dathere.com/wp-content/uploads/2024/03/logo.datHere.primary.dark_.bg_.png">
         <source media="(prefers-color-scheme: light)" srcset="https://dathere.com/wp-content/uploads/2021/06/dathere_logo.png">
         <img width=200 alt="datHere logo" src="profile/dathere_logo.png">
     </picture>
